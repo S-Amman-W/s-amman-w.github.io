@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "..\\..\\Downloads\\fontawesome-free-5.15.1-web\\fontawesome-free-5.15.1-web\\webfonts"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "s-amman-w.github.io"
+	}
+}
